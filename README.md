@@ -14,8 +14,6 @@ The frontend provides a visually appealing and responsive user interface, while 
     -   [Prerequisites](#prerequisites)
     -   [Installation & Setup](#installation--setup)
     -   [Running the Application](#running-the-application)
--   [Contributing](#-contributing)
--   [License](#-license)
 
 ## 📸 Demo - Screenshots
 
