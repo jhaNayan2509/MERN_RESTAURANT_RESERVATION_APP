@@ -17,16 +17,22 @@ The frontend provides a visually appealing and responsive user interface, while 
 -   [Contributing](#-contributing)
 -   [License](#-license)
 
-## 📸 Screenshots
+## 📸 Demo - Screenshots
 
-*To add your own screenshots, create an `assets` folder in the project's root directory, place your image files there, and update the paths in the markdown below.*
+Here is a comprehensive gallery of the application, showcasing the user journey from the landing page to form submission and final results.
 
-| Hero Section                                   | About Us Section                              |
-| ---------------------------------------------- | -------------------------------------------------- |
-| ![Hero Section](./assets/hero.png) | ![Qualities Section](./assets/about.png) |
-| **Qualities Section**                               | **Reservation Form**                      |
-| ![Qualities](./assets/qualities.png) | ![Reservation Form](./assets/form.png) |
-
+| **1. Hero Section** | **2. About Us** | **3. Our Qualities** |
+| :---: | :---: | :---: |
+| ![Hero Section](./assets/hero.png) | ![About Us Section](./assets/about.png) | ![Our Qualities Section](./assets/qualities.png) |
+| **4. Popular Dishes** | **5. Key Stats** | **6. Our Team** |
+| :---: | :---: | :---: |
+| ![Popular Dishes Section](./assets/dishes.png) | ![Key Stats Section](./assets/stats.png) | ![Our Team Section](./assets/team.png) |
+| **7. Reservation Form** | **8. Form Validation (Email)** | **9. Form Validation (Phone)** |
+| :---: | :---: | :---: |
+| ![Reservation Form](./assets/form.png) | ![Invalid Email Error](./assets/form-error-invalid-email.png) | ![Invalid Phone Error](./assets/form-error-invalid-phone.png) |
+| **10. Success Message** | **11. Database Record** | **12. Not Found Page** |
+| :---: | :---: | :---: |
+| ![Success Message](./assets/success.png) | ![MongoDB Collection](./assets/mongodb-database-collection.png) | ![404 Not Found Page](./assets/not-found-page.png) |
 
 ## ✨ Features
 
