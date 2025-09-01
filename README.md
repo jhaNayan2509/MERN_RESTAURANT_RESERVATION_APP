@@ -6,7 +6,7 @@ The frontend provides a visually appealing and responsive user interface, while 
 
 ## Table of Contents
 
--   [Demo Screenshots](#-screenshots)
+-   [Demo Screenshots](#-demo---screenshots)
 -   [Features](#-features)
 -   [Tech Stack](#-tech-stack)
 -   [Project Structure](#-project-structure)
